@@ -1,4 +1,4 @@
 ## База данных
-(<image src="https://picsum.photos/800/600" alt="Описание картинки">)
+(<image src="https://ibb.co/wMsC6yV" alt="Описание картинки">)
 
 
