@@ -11,7 +11,7 @@
 * Работа с гипотезами
 * Машинное обучение: библиотеки Scikit-learn, XGBoost
 ## Программа обучения:
-<image src="https://i.ibb.co/P50Q7Xf/2023-09-09-18-49-55.png" >
+<image src="https://i.ibb.co/YXsSC8C/2023-09-09-18-57-39.png" >
 
 
 # Проекты:
