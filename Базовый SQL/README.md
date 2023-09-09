@@ -1,3 +1,4 @@
 ## База данных
-<image src="https://ibb.co/wMsC6yV">
+![ASDSADADSAD](https://ibb.co/wMsC6yV)
+
 
